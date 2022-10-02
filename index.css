@@ -1,0 +1,123 @@
+body {
+    margin: 0;
+}
+
+.header {
+    background-image: url('./images/donation10.jpg');
+    background-size: cover;
+    height: 700px;
+    background-repeat: no-repeat;
+
+}
+
+.header-h1 {
+    font-size: 70px;
+    color: rgb(8, 7, 7);
+    text-align: center;
+    padding-top: 200px;
+}
+
+.header-p {
+    text-align: center;
+}
+
+.header-btn {
+    text-align: center;
+
+}
+
+.input-field {
+    padding: 10px;
+}
+
+.header-button {
+    font-size: 17px;
+    padding: 12px;
+    width: auto;
+    margin-top: 20px;
+    background-color: rgb(189, 22, 22);
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+.donate-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.donate-taka {
+    background-color: rgb(238, 217, 217);
+    padding: 20px;
+    margin: 10px;
+}
+
+#taka-500 {
+    border: 2px solid red;
+    color: red;
+}
+
+.section {
+    padding-top: 20px;
+    margin-top: 30px;
+}
+
+.donate-plan {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.plan-card {
+    width: 250px;
+    margin: 20px;
+    background-color: rgb(240, 198, 212);
+    padding: 25px;
+}
+
+.header-text {
+    font-size: 40px;
+}
+
+.img-div img {
+    width: 500px;
+}
+
+.optional-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.depant-donation {
+    padding: 20px;
+    margin: 20px;
+}
+
+.update-section {
+    text-align: center;
+    /* width: 700px; */
+}
+
+.update-field {
+    background-color: rgb(255, 244, 194);
+    padding: 70px;
+    margin-left: 250px;
+    margin-right: 250px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.footer-section {
+    background-color: black;
+    color: rgb(255, 0, 0);
+    padding: 40px;
+    text-align: center;
+    margin-top: 100px;
+
+}
+
+.footer-text {}
